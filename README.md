@@ -88,13 +88,21 @@ This structure is designed to support easy inspection and downstream analysis.
 # 📁 File Structure (Optional)
 
 ├── data/
+
 │   ├── train.json
+
 │   ├── val.json
+
 │   └── test.json
+
 ├── model/
+
 │   └── fine_tuned_bert.bin
+
 ├── scripts/
+
 │   └── train_model.py
+
 ├── README.md
 
 
